@@ -7,9 +7,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Mayank Khamari |
-| **Registration No.** | 25BAI10648 |
-| **Branch** | AIML |
+| **Name** | priyanshu chauhan |
+| **Registration No.** | 25BEC10062 |
+| **Branch** | ECE |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
